@@ -1,8 +1,4 @@
 .phonebook-container {
-  width: 1200px;
-  display: flex;
-  flex-direction: column;
-  margin: 0 auto;
   padding: 20px;
 }
 
